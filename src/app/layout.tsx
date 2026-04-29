@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Alex Morgan | MERN Stack Developer',
+  title: 'Shommo khastagir | MERN Stack Developer',
   description:
     'Full-stack MERN developer specializing in building scalable, high-performance web applications with React, Node.js, MongoDB, and Next.js.',
   keywords: [
