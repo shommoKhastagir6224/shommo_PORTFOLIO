@@ -1,4 +1,4 @@
-# 🚀 Alex Morgan — MERN Stack Developer Portfolio
+# 🚀 Shommo khastagir — MERN Stack Developer Portfolio
 
 A top-class, modern, high-end personal portfolio website built with **Next.js 14**, **React**, **Tailwind CSS**, and **Framer Motion**.
 
@@ -96,7 +96,7 @@ Edit **`src/lib/data.ts`** to change:
 
 ### 2. Update your name/branding
 
-Search and replace `Alex Morgan` in:
+Search and replace `Shommo khastagir` in:
 - `src/app/layout.tsx` (SEO metadata)
 - `src/components/layout/Navbar.tsx`
 - `src/components/layout/Footer.tsx`
