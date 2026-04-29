@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\sections\\\\Contact.tsx -> emailjs-com\":{\"id\":\"components\\\\sections\\\\Contact.tsx -> emailjs-com\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_emailjs-com_es_index_js.js\"]}}"
