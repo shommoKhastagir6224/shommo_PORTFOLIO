@@ -15,9 +15,9 @@ export const metadata: Metadata = {
     'Web Developer',
     'Portfolio',
   ],
-  authors: [{ name: 'Alex Morgan' }],
+  authors: [{ name: 'Shommo khastagir' }],
   openGraph: {
-    title: 'Alex Morgan | MERN Stack Developer',
+    title: 'Shommo khastagir | MERN Stack Developer',
     description: 'Building modern, scalable web applications.',
     type: 'website',
   },
